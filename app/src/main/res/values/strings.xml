@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Baloncesto</string>
+    <string name="local_0">Local 0</string>
+    <string name="visitante_0">Visitante 0</string>
+    <string name="reset">Reset</string>
+    <string name="local1">1</string>
+    <string name="local2">2</string>
+    <string name="local3">3</string>
+    <string name="vis1">1</string>
+    <string name="vis2">2</string>
+    <string name="vis3">3</string>
+</resources>
